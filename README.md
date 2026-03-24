@@ -1,4 +1,4 @@
-# Xquads Squads
+# Xquads Squads - OneSet Digital
 
 **As maiores mentes trabalhando para voce.**
 
@@ -73,4 +73,4 @@ Veja todos os agentes, bios e especialidades em: [xquads.vercel.app/xquads](http
 
 ---
 
-**Xquads by Synkra**
+**Xquads by OneSet Digital**
