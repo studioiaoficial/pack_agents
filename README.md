@@ -63,7 +63,7 @@ squad-name/
 
 ## Pre-requisitos
 
-- [Synkra AIOS Core](https://github.com/SynkraAI/aios-core)
+- [Synkra AIOS Core](https://github.com/studioiaoficial/pack_agents.git))
 - Node.js 18+
 - Claude Code (Anthropic CLI)
 
